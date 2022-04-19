@@ -1,0 +1,47 @@
+.container{
+    margin: 50px;
+    margin-left: 450px;
+    margin-top:45px;
+    width:400px;
+    height:400px;
+    background-color:#fff;
+    display:grid;
+    grid-template-columns: 200px 200px;
+    grid-row: auto auto;
+    grid-column-gap: 150px;
+    grid-row-gap: 50px;
+    border-radius: 60%;
+}
+.card1 {
+    border: solid black;
+    height: 325px;
+    border-radius: 3%;
+}
+
+.card2 {
+    border: solid black;
+    height: 325px;
+    border-radius: 3%;
+}
+
+.card3 {
+    border: solid black;
+    height: 325px;
+    border-radius: 3%;
+}
+
+.card4 {
+    border: solid black;
+    height: 325px;
+    border-radius: 3%;
+}
+/* navigation bar */
+.navbar {
+    margin-bottom: 1em;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.navbar-brand {
+    border: solid  rgb(45, 35, 132);
+    font-family: 'Source Code Pro', monospace;
+}
