@@ -1,4 +1,4 @@
-#Projects Page
+# Projects Page
 
-##Description
+## Description
 A collective site of some projects made thus far.MIT coding assignments. 
