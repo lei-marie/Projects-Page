@@ -1,10 +1,13 @@
+body {
+    background-color:#187ea6;
+
+}
 .container{
     margin: 50px;
     margin-left: 450px;
     margin-top:45px;
     width:400px;
     height:400px;
-    background-color:#fff;
     display:grid;
     grid-template-columns: 200px 200px;
     grid-row: auto auto;
@@ -14,24 +17,28 @@
 }
 .card1 {
     border: solid black;
+    border-width: 3px;
     height: 325px;
     border-radius: 3%;
 }
 
 .card2 {
     border: solid black;
+    border-width: 3px;
     height: 325px;
     border-radius: 3%;
 }
 
 .card3 {
     border: solid black;
+    border-width: 3px;
     height: 325px;
     border-radius: 3%;
 }
 
 .card4 {
     border: solid black;
+    border-width: 3px;
     height: 325px;
     border-radius: 3%;
 }
