@@ -42,6 +42,7 @@
 }
 
 .navbar-brand {
-    border: solid  rgb(45, 35, 132);
+    border: solid  #187ea6;
     font-family: 'Source Code Pro', monospace;
 }
+
